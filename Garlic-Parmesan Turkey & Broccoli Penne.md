@@ -1,4 +1,6 @@
-# Garlic-Parmesan Turkey & Broccoli Penne
+# Garlic-Parmesan Turkey & Broccoli (Whole Wheat) Penne
+
+**Optional:** You can use regular or whole wheat pasta. Just follow the cooking directions on the package.
 
 **Servings:** 4–6
 **Prep time:** 15 minutes

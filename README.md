@@ -2,6 +2,10 @@
 
 A collection of home-cooked recipes and practical meal-planning experiments.
 
+## Recipes
+
+- [October–November 2026 successful pressure-cooker batch meals](recipes/README.md) — four recipes, approximately 8 servings each, with the unsuccessful peanut-lentil stew excluded.
+
 ## Budget meal-planning playbook
 
 The October–November 2026 ten-day pressure-cooker project established a repeatable method for creating affordable, healthy, flavorful meals in large batches for two adults.
